@@ -33,7 +33,6 @@ public class Main {
             StringBuilder ipTS = new StringBuilder();
             for (Map.Entry<String, Integer> entrys : entry.getValue().entrySet()) {
                 sum += entrys.getValue();
-                ;
                 ipTS.append(entrys.getKey()).append(", ");
             }
             ipTS.delete(ipTS.length() - 2, ipTS.length() - 1);
