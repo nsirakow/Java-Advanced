@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.function.Consumer;
 
-public class AppliedArithmetic {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
