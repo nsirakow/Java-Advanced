@@ -1,0 +1,9 @@
+Create a generic class Box that can store any type.
+
+1 - Override the toString() method to print the type and the value of the stored data in the format {class full name: value}.
+
+2 - Create a generic method that receives a list containing any type of data and swaps the elements at two given indexes.
+
+3 - Create a method that receives as argument a list of any type that can be compared and an element of the given type.
+The method should return the count of elements that are greater than the value of the given element. Modify your Box class to support comparing by value of the data stored.
+
